@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JBehaveTest.iml" filepath="$PROJECT_DIR$/.idea/modules/JBehaveTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JBehaveTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JBehaveTest_main.iml" group="JBehaveTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JBehaveTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JBehaveTest_test.iml" group="JBehaveTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/src/test.iml" filepath="$PROJECT_DIR$/.idea/modules/src/test.iml" group="test" />
+    </modules>
+  </component>
+</project>

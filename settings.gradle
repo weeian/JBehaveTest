@@ -1,0 +1,4 @@
+rootProject.name = 'JBehaveTest'
+include 'src'
+findProject(':src')?.name = 'test'
+
