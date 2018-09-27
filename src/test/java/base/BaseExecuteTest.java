@@ -9,7 +9,7 @@ import steps.PutObjectStep;
  */
 
 /**
- * 测试案例运行入口（对应到step文件，即实现场景代码的java文件）
+ * 测试案例运行入口（对应到step文件，即实现场景代码的java类）
  */
 public class BaseExecuteTest extends BaseAcceptanceTest {
     @Override
